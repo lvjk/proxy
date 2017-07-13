@@ -1,0 +1,24 @@
+[ INFO ] [2017-03-21 10:45:26] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485]
+				- Starting proxy at address: /192.168.12.80:8888
+[ INFO ] [2017-03-21 10:45:27] org.littleshoot.proxy.impl.DefaultHttpProxyServer [514]
+				- Proxy listening with TCP transport
+[ INFO ] [2017-03-21 10:45:27] org.littleshoot.proxy.impl.DefaultHttpProxyServer [549]
+				- Proxy started at address: /192.168.12.80:8888
+[ INFO ] [2017-03-21 10:49:56] org.littleshoot.proxy.impl.ClientToProxyConnection [?]
+				- (AWAITING_PROXY_AUTHENTICATION) [id: 0xbc2ee212, L:/192.168.12.80:8888 - R:/192.168.12.80:58910]: An IOException occurred on ClientToProxyConnection: 远程主机强迫关闭了一个现有的连接。
+[ INFO ] [2017-03-21 10:50:58] org.littleshoot.proxy.impl.ClientToProxyConnection [729]
+				- (AWAITING_INITIAL {tunneling}) [id: 0x2aea2aa2, L:/192.168.12.80:8888 - R:/192.168.12.80:58860]: An IOException occurred on ClientToProxyConnection: 您的主机中的软件中止了一个已建立的连接。
+[ INFO ] [2017-03-21 10:51:02] org.littleshoot.proxy.impl.ClientToProxyConnection [?]
+				- (AWAITING_INITIAL {tunneling}) [id: 0xb41ba3c9, L:/192.168.12.80:8888 - R:/192.168.12.80:58862]: An IOException occurred on ClientToProxyConnection: 您的主机中的软件中止了一个已建立的连接。
+[ INFO ] [2017-03-21 10:51:02] org.littleshoot.proxy.impl.ClientToProxyConnection [?]
+				- (AWAITING_INITIAL {tunneling}) [id: 0x103f5e8a, L:/192.168.12.80:8888 - R:/192.168.12.80:58861]: An IOException occurred on ClientToProxyConnection: 您的主机中的软件中止了一个已建立的连接。
+[ INFO ] [2017-03-21 10:51:04] org.littleshoot.proxy.impl.ClientToProxyConnection [?]
+				- (AWAITING_INITIAL {tunneling}) [id: 0x720e8848, L:/192.168.12.80:8888 - R:/192.168.12.80:58865]: An IOException occurred on ClientToProxyConnection: 您的主机中的软件中止了一个已建立的连接。
+[ INFO ] [2017-03-21 10:51:07] org.littleshoot.proxy.impl.ClientToProxyConnection [729]
+				- (AWAITING_INITIAL {tunneling}) [id: 0xa725c8ac, L:/192.168.12.80:8888 - R:/192.168.12.80:58864]: An IOException occurred on ClientToProxyConnection: 您的主机中的软件中止了一个已建立的连接。
+[ INFO ] [2017-03-21 10:51:07] org.littleshoot.proxy.impl.ClientToProxyConnection [?]
+				- (AWAITING_INITIAL {tunneling}) [id: 0xcebea3ed, L:/192.168.12.80:8888 - R:/192.168.12.80:58867]: An IOException occurred on ClientToProxyConnection: 您的主机中的软件中止了一个已建立的连接。
+[ INFO ] [2017-03-21 10:51:07] org.littleshoot.proxy.impl.ClientToProxyConnection [?]
+				- (AWAITING_INITIAL {tunneling}) [id: 0x1d8ff5e4, L:/192.168.12.80:8888 - R:/192.168.12.80:58863]: An IOException occurred on ClientToProxyConnection: 您的主机中的软件中止了一个已建立的连接。
+[ INFO ] [2017-03-21 10:51:07] org.littleshoot.proxy.impl.ClientToProxyConnection [729]
+				- (AWAITING_INITIAL {tunneling}) [id: 0xb34b39b8, L:/192.168.12.80:8888 - R:/192.168.12.80:58866]: An IOException occurred on ClientToProxyConnection: 您的主机中的软件中止了一个已建立的连接。

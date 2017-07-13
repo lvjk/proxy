@@ -1,0 +1,42 @@
+[ INFO ] [2017-03-10 17:52:55] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485] - Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-10 17:52:56] org.littleshoot.proxy.impl.DefaultHttpProxyServer [514] - Proxy listening with TCP transport
+[ INFO ] [2017-03-10 17:53:30] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485] - Starting proxy at address: /192.168.12.80:8888
+[ INFO ] [2017-03-10 17:53:30] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Proxy listening with TCP transport
+[ INFO ] [2017-03-10 17:53:31] org.littleshoot.proxy.impl.DefaultHttpProxyServer [549] - Proxy started at address: /192.168.12.80:8888
+[ INFO ] [2017-03-10 17:56:15] org.littleshoot.proxy.impl.ProxyToServerConnection [?] - (CONNECTING) [id: 0x37f6c714]: Connection to upstream server failed
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection timed out: no further information: clients1.google.com/74.125.23.102:443
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:257)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:291)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:640)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:575)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:489)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:451)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at java.lang.Thread.run(Thread.java:745)
+[ INFO ] [2017-03-10 17:56:40] org.littleshoot.proxy.impl.ClientToProxyConnection [?] - (AWAITING_PROXY_AUTHENTICATION) [id: 0x8f3b6e04, L:/192.168.12.80:8888 - R:/192.168.12.80:49347]: An IOException occurred on ClientToProxyConnection: 远程主机强迫关闭了一个现有的连接。
+[ INFO ] [2017-03-10 17:56:57] org.littleshoot.proxy.impl.ProxyToServerConnection [?] - (CONNECTING) [id: 0x48baeadd]: Connection to upstream server failed
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection timed out: no further information: clients1.google.com/74.125.23.100:443
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:257)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:291)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:640)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:575)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:489)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:451)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at java.lang.Thread.run(Thread.java:745)
+[ INFO ] [2017-03-10 17:57:43] org.littleshoot.proxy.impl.ProxyToServerConnection [?] - (CONNECTING) [id: 0x133fc042]: Connection to upstream server failed
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection timed out: no further information: clients1.google.com/74.125.23.100:443
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:257)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:291)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:640)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:575)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:489)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:451)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at java.lang.Thread.run(Thread.java:745)

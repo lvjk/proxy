@@ -1,0 +1,26 @@
+[ INFO ] [2017-03-20 13:20:01] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485]
+				- Starting proxy at address: /192.168.12.80:8888
+[ INFO ] [2017-03-20 13:20:02] org.littleshoot.proxy.impl.DefaultHttpProxyServer [514]
+				- Proxy listening with TCP transport
+[ INFO ] [2017-03-20 13:20:02] org.littleshoot.proxy.impl.DefaultHttpProxyServer [549]
+				- Proxy started at address: /192.168.12.80:8888
+[ INFO ] [2017-03-20 13:21:53] org.littleshoot.proxy.impl.ClientToProxyConnection [?]
+				- (AWAITING_PROXY_AUTHENTICATION) [id: 0x5236a040, L:/192.168.12.80:8888 - R:/192.168.12.80:63508]: An IOException occurred on ClientToProxyConnection: 远程主机强迫关闭了一个现有的连接。
+[ INFO ] [2017-03-20 13:22:13] org.littleshoot.proxy.impl.ClientToProxyConnection [729]
+				- (AWAITING_INITIAL {tunneling}) [id: 0xea2fad99, L:/192.168.12.80:8888 - R:/192.168.12.80:63505]: An IOException occurred on ClientToProxyConnection: 您的主机中的软件中止了一个已建立的连接。
+[ INFO ] [2017-03-20 13:22:23] org.littleshoot.proxy.impl.ClientToProxyConnection [729]
+				- (AWAITING_INITIAL {tunneling}) [id: 0x633a2f17, L:/192.168.12.80:8888 - R:/192.168.12.80:63510]: An IOException occurred on ClientToProxyConnection: 您的主机中的软件中止了一个已建立的连接。
+[ INFO ] [2017-03-20 13:22:28] org.littleshoot.proxy.impl.ClientToProxyConnection [?]
+				- (AWAITING_INITIAL {tunneling}) [id: 0xa416e59c, L:/192.168.12.80:8888 - R:/192.168.12.80:63507]: An IOException occurred on ClientToProxyConnection: 您的主机中的软件中止了一个已建立的连接。
+[ INFO ] [2017-03-20 13:25:57] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485]
+				- Starting proxy at address: /192.168.12.80:8888
+[ INFO ] [2017-03-20 13:25:58] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?]
+				- Proxy listening with TCP transport
+[ INFO ] [2017-03-20 13:25:58] org.littleshoot.proxy.impl.DefaultHttpProxyServer [549]
+				- Proxy started at address: /192.168.12.80:8888
+[ INFO ] [2017-03-20 16:30:52] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485]
+				- Starting proxy at address: /192.168.12.80:8888
+[ INFO ] [2017-03-20 16:30:53] org.littleshoot.proxy.impl.DefaultHttpProxyServer [514]
+				- Proxy listening with TCP transport
+[ INFO ] [2017-03-20 16:30:53] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?]
+				- Proxy started at address: /192.168.12.80:8888

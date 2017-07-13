@@ -1,0 +1,79 @@
+[ INFO ] [2017-03-08 10:23:42] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485]
+				- Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:23:43] org.littleshoot.proxy.impl.DefaultHttpProxyServer [514]
+				- Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:23:43] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?]
+				- Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:23:58] org.littleshoot.proxy.impl.ClientToProxyConnection [?]
+				- (AWAITING_INITIAL) [id: 0xa02b080d, L:/192.168.12.157:8888 - R:/192.168.12.157:52059]: Bad Host clients1.google.com:443
+[ INFO ] [2017-03-08 10:24:20] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485] - Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:24:20] org.littleshoot.proxy.impl.DefaultHttpProxyServer [514] - Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:24:20] org.littleshoot.proxy.impl.DefaultHttpProxyServer [549] - Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:24:40] org.littleshoot.proxy.impl.ClientToProxyConnection [?] - (AWAITING_INITIAL) [id: 0xb9243b48, L:/192.168.12.157:8888 - R:/192.168.12.157:52111]: Bad Host clients1.google.com:443
+[ INFO ] [2017-03-08 10:25:51] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?]
+				- Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:25:51] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?]
+				- Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:25:52] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?]
+				- Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:30:09] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485] - Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:30:09] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:30:09] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:30:09] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Shutting down proxy server immediately (non-graceful)
+[ INFO ] [2017-03-08 10:30:09] org.littleshoot.proxy.impl.DefaultHttpProxyServer [459] - Closing all channels (non-graceful)
+[ INFO ] [2017-03-08 10:30:09] org.littleshoot.proxy.impl.ServerGroup [212] - Shutting down server group event loops (non-graceful)
+[ INFO ] [2017-03-08 10:30:09] org.littleshoot.proxy.impl.DefaultHttpProxyServer [440] - Done shutting down proxy server
+[ INFO ] [2017-03-08 10:30:51] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485] - Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:30:52] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:30:52] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:30:52] org.littleshoot.proxy.impl.DefaultHttpProxyServer [426] - Shutting down proxy server immediately (non-graceful)
+[ INFO ] [2017-03-08 10:30:52] org.littleshoot.proxy.impl.DefaultHttpProxyServer [459] - Closing all channels (non-graceful)
+[ INFO ] [2017-03-08 10:30:52] org.littleshoot.proxy.impl.ServerGroup [212] - Shutting down server group event loops (non-graceful)
+[ INFO ] [2017-03-08 10:30:52] org.littleshoot.proxy.impl.DefaultHttpProxyServer [440] - Done shutting down proxy server
+[ INFO ] [2017-03-08 10:31:05] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485] - Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:31:05] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:31:05] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:31:08] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Shutting down proxy server immediately (non-graceful)
+[ INFO ] [2017-03-08 10:31:08] org.littleshoot.proxy.impl.DefaultHttpProxyServer [459] - Closing all channels (non-graceful)
+[ INFO ] [2017-03-08 10:31:08] org.littleshoot.proxy.impl.ServerGroup [?] - Shutting down server group event loops (non-graceful)
+[ INFO ] [2017-03-08 10:31:08] org.littleshoot.proxy.impl.DefaultHttpProxyServer [440] - Done shutting down proxy server
+[ INFO ] [2017-03-08 10:31:51] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?]
+				- Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:31:52] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?]
+				- Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:31:52] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?]
+				- Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:32:44] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485] - Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:32:44] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:32:44] org.littleshoot.proxy.impl.DefaultHttpProxyServer [549] - Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:33:08] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:33:08] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:33:08] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:33:26] org.littleshoot.proxy.impl.ClientToProxyConnection [?] - (AWAITING_INITIAL) [id: 0x50557b74, L:/192.168.12.157:8888 - R:/192.168.12.157:52724]: Bad Host clients1.google.com:443
+[ INFO ] [2017-03-08 10:49:04] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485]
+				- Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:49:04] org.littleshoot.proxy.impl.DefaultHttpProxyServer [514]
+				- Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:49:04] org.littleshoot.proxy.impl.DefaultHttpProxyServer [549]
+				- Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:49:11] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485] - Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:49:12] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?] - Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:49:12] org.littleshoot.proxy.impl.DefaultHttpProxyServer [549] - Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:49:43] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485]
+				- Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:49:44] org.littleshoot.proxy.impl.DefaultHttpProxyServer [514]
+				- Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:49:44] org.littleshoot.proxy.impl.DefaultHttpProxyServer [549]
+				- Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:50:12] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485]
+				- Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:50:12] org.littleshoot.proxy.impl.DefaultHttpProxyServer [514]
+				- Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:50:13] org.littleshoot.proxy.impl.DefaultHttpProxyServer [549]
+				- Proxy started at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:51:49] org.littleshoot.proxy.impl.DefaultHttpProxyServer [485]
+				- Starting proxy at address: /192.168.12.157:8888
+[ INFO ] [2017-03-08 10:51:50] org.littleshoot.proxy.impl.DefaultHttpProxyServer [?]
+				- Proxy listening with TCP transport
+[ INFO ] [2017-03-08 10:51:50] org.littleshoot.proxy.impl.DefaultHttpProxyServer [549]
+				- Proxy started at address: /192.168.12.157:8888
